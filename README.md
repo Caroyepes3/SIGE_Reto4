@@ -1,31 +1,39 @@
-# SIGE - RETO 4
+# SIGE_Reto4
 
-## Aplicación desarrollada en MATLAB App Designer
+## 1. Descripción del proyecto
 
-### Descripción
-Este proyecto corresponde al desarrollo de una aplicación interactiva en MATLAB App Designer, como parte de la actividad SIGE - Reto 4.
+Aplicación desarrollada en MATLAB App Designer para analizar y visualizar el comportamiento de una MicroRed híbrida.
 
-### Objetivo
-Desarrollar una herramienta que permita visualizar y analizar el comportamiento de una MicroRed, considerando la generación de energía, la demanda y el almacenamiento mediante baterías.
+## 2. Archivo principal
 
-### Archivo principal
-- `SIGE_Reto4.mlapp`: Aplicación principal desarrollada en MATLAB App Designer.
+- **SIGE_Reto4.mlapp:** Aplicación principal desarrollada en MATLAB App Designer. Contiene la interfaz gráfica y la programación del sistema.
 
-### Funcionalidades
-- Interfaz gráfica de usuario.
-- Visualización de variables del sistema.
-- Análisis del comportamiento de la MicroRed.
-- Representación de la generación, demanda y almacenamiento energético.
+## 3. Herramientas utilizadas
 
-### Herramientas utilizadas
-- MATLAB.
+- MATLAB R2026a.
 - MATLAB App Designer.
+- GitHub para el almacenamiento y control de versiones del proyecto.
 
-### Instrucciones de ejecución
+## 4. Visualización del código fuente
+
+Para consultar la programación de la aplicación:
+
+1. Descargar el archivo `SIGE_Reto4.mlapp` desde este repositorio.
+2. Abrir el archivo en MATLAB App Designer.
+3. Seleccionar la opción **Code View** para visualizar la programación.
+4. Desde App Designer se puede consultar la estructura de la aplicación y sus funciones.
+
+**Nota:** GitHub almacena el archivo `.mlapp`, pero no muestra directamente su código fuente en el navegador.
+
+## 5. Ejecución del proyecto
+
 1. Descargar `SIGE_Reto4.mlapp`.
 2. Abrir MATLAB.
-3. Abrir el archivo desde MATLAB App Designer.
-4. Ejecutar la aplicación mediante el botón **Run**.
+3. Abrir la aplicación desde MATLAB App Designer.
+4. Presionar el botón **Run** para ejecutar la simulación.
 
-### Proyecto académico
-**SIGE - Reto 4**
+## 6. Repositorio
+
+Proyecto académico SIGE - Reto 4.
+
+Repositorio GitHub: https://github.com/Caroyepes3/SIGE_Reto4
